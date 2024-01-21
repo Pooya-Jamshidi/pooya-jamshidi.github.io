@@ -1,4 +1,4 @@
-I am a Master Software Engineering Student in the Router lab at UT ECE, advised by [Prof. Nasser Yazdani](/). I am interested in Computer and Mobile Networks, Distributed Systems, Reinforcement and Federated Leaning.<br>
+I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advised by [Prof. Nasser Yazdani](/). I am interested in Computer and Mobile Networks, Distributed Systems, Reinforcement and Federated Leaning.<br>
 
 ## Education
 
