@@ -134,7 +134,6 @@ Under Prepration<br>
   
 ## Work Experience
 - **Dadeh imen Gostar Tadbir (_DiGT_)**  
-  _Programmable Logic Controller Programming,Introduction to Industrial electricity_<br>
   _DiGT, Tehran, Iran_ <br>
   _Participating in Programming Switches and Routers especially algorithms for Switches that work in Network Layer_ <br>
   _Feb 2022 - Jan 2023_
