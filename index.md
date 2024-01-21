@@ -2,19 +2,19 @@
 ## Education
 
 - **University of Tehran**  
-  _Master of Science (MSc), Computer Engineering_  
+  _Master of Science (MS.c.), Computer Engineering, Software Engineering_  
   2021 - 2024  
-  Grade: (19.64 / 20)
+  Grade: (19.24 / 20)
 
-- **University of Tehran**  
-  _Bachelor of Science (BSc), Computer Science_  
-  2016 - 2020  
-  Grade: (17.4 / 20)
+- **Ilam University**  
+  _Bachelor of Science (BS.c.), Computer Engineering_  
+  2017 - 2021  
+  Grade: (18.69 / 20)
 
 - **National Organization for development of Exceptional Talents (Sampad)**  
   _Diploma in Mathematics and Physics_  
-  2012 - 2016  
-  Grade: (19.7 / 20)
+  2013 - 2017  
+  Grade: (19.14 / 20)
 
 ## Teaching Experience
 
