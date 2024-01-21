@@ -6,7 +6,7 @@ I am a Master Software Engineering Student in the Router lab at UT ECE, advised 
   _Master of Science (MS.c.), Computer Engineering, Software Engineering_  
   2021 - 2024
   Grade: (19.24 / 20)
-  Ranked 2nd among the peers
+  _Ranked 2nd among the peers_
   
 - **Ilam University**  
   _Bachelor of Science (BS.c.), Computer Engineering_  
@@ -19,31 +19,59 @@ I am a Master Software Engineering Student in the Router lab at UT ECE, advised 
   2013 - 2017  
   Grade: (19.14 / 20)
 
+## Publications
+_Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain_<br>
+M. Shakournia, __P. Jamshidi__, H. Faragardi, N. Yazdani<br>
+Submitted to ([Computers & Electrical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-electrical-engineering))<br>
+
+
 ## Teaching Experience
 
-- **Advanced Software Testing**  
-  _Teaching Assistant_<br>
-  _Instructor: Dr. Ehsan Khamespanah_ <br>
-  _School of ECE, University of Tehran_ <br>
-  _Spring 2024_
+### MS.c.
 
- - **Process Algebra and Automata Theory**  
-  _Teaching Assistant_<br>
-  _Instructor: Dr. Fatemeh Ghassemi_ <br>
+- **Advanced Computer Networking**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Nasser Yazdani_ <br>
   _School of ECE, University of Tehran_ <br>
-  _Spring 2024_
+  _Fall 2024_
 
+- **Advanced Algorithms**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Heshaam Faili_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Fall 2024_
+  
+- **Reinforcement Learning**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Majid Nili_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Fall 2024_
+  
 - **Performance Evaluation of Computer Systems**  
-  _Teaching Assistant_<br>
+  _Chief Teaching Assistant_<br>
   _Instructor: Dr. Ahmad Khonsari_ <br>
   _School of ECE, University of Tehran_ <br>
   _Spring 2023_
 
-- **Statistical Inference**  
-  _Teaching Assistant_<br>
-  _Instructor: Dr. Behnam Bahrak_ <br>
+  - **Advanced Distributed Systems**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Hamid-Reza Faragardi_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Spring 2023_
+
+- **Advanced Computer Mathematics**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Nasser Yazdani_ <br>
   _School of ECE, University of Tehran_ <br>
   _Fall 2022_
+
+- **Advanced Algorithms**  
+  _Teaching Assistant_<br>
+  _Instructor: Dr. Heshaam Faili_ <br>
+  _School of ECE, University of Tehran_ <br>
+  _Fall 2022_
+
+### BS.c.
 
 - **Computer Architecture**  
   _Teaching Assistant_<br>
@@ -73,13 +101,13 @@ I am a Master Software Engineering Student in the Router lab at UT ECE, advised 
 
 ## Skills Summary
 
-- **Programming Languages:** Python, Java, C++, SQL, Bash, Assembly, Lingua Franca
+- **Programming Languages:** Python, Java, C++, SQL, Bash, Assembly
 - **Frameworks:** ANTLR, Apache Kafka, Apache Spark, Familiar with OpenGL
-- **Tools:** Docker, GIT, SQL Server, Kubernetes, UPPAAL
+- **Tools:** Docker, GIT, SQL Server, Kubernetes, MySQL, 
 - **Platforms:** Linux, Windows
 - **Typesetting:** LaTeX, Microsoft Office
-- **Other Skills:** Familiar with PLC Siemens Programming, Cisco CCNA, Comptia Network+
-- **Language:** Persian, Azerbaijani, English
+- **Other Skills:** Cisco CCNA, Comptia Network+
+- **Language:** Persian, Kurdish, English
 
 ## Research Interests
 
