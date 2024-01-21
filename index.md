@@ -4,14 +4,14 @@ I am a Master Software Engineering Student in the Router lab at UT ECE, advised 
 
 - **University of Tehran**  
   _Master of Science (MS.c.), Computer Engineering, Software Engineering_  
-  2021 - 2024
-  Grade: (19.24 / 20)
+  2021 - 2024  
+  Grade: (19.24 / 20)  
   _Ranked 2nd among the peers_
   
 - **Ilam University**  
   _Bachelor of Science (BS.c.), Computer Engineering_  
   2017 - 2021  
-  Grade: (18.69 / 20)
+  Grade: (18.69 / 20)  
   _Ranked 1st among the peers_
 
 - **National Organization for development of Exceptional Talents (Sampad)**  
@@ -22,7 +22,7 @@ I am a Master Software Engineering Student in the Router lab at UT ECE, advised 
 ## Publications
 _Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain_<br>
 M. Shakournia, __P. Jamshidi__, H. Faragardi, N. Yazdani<br>
-Submitted to ([Computers & Electrical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-electrical-engineering))<br>
+Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)<br>
 
 
 ## Teaching Experience
@@ -39,7 +39,7 @@ Submitted to ([Computers & Electrical Engineering Journal](https://www.sciencedi
   _Teaching Assistant_<br>
   _Instructor: Dr. Heshaam Faili_ <br>
   _School of ECE, University of Tehran_ <br>
-  _Fall 2024_
+  _Fall 2024, Fall 2022_
   
 - **Reinforcement Learning**  
   _Teaching Assistant_<br>
@@ -53,7 +53,7 @@ Submitted to ([Computers & Electrical Engineering Journal](https://www.sciencedi
   _School of ECE, University of Tehran_ <br>
   _Spring 2023_
 
-  - **Advanced Distributed Systems**  
+- **Advanced Distributed Systems**  
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Hamid-Reza Faragardi_ <br>
   _School of ECE, University of Tehran_ <br>
@@ -65,45 +65,81 @@ Submitted to ([Computers & Electrical Engineering Journal](https://www.sciencedi
   _School of ECE, University of Tehran_ <br>
   _Fall 2022_
 
-- **Advanced Algorithms**  
-  _Teaching Assistant_<br>
-  _Instructor: Dr. Heshaam Faili_ <br>
-  _School of ECE, University of Tehran_ <br>
-  _Fall 2022_
-
 ### BS.c.
 
+- **Algorithm Design**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Spring 2021, Spring 2020_
+
+- **Digital Logic Design**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Spring 2021_
+
+- **Introduction to Computer Vision**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mojtaba Karami_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Spring 2021_
+
+- **Database Design**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mohammad Tanhaei_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Fall 2021_
+
+- **Computer Networks**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Fall 2021_
+
+- **Languages and Automata Theory**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Fall 2021_
+
+- **Basic Programming**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Fall 2020, Spring 2019, Fall 2019_
+
+- **Data Structures and Algorithms**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Fall 2020_
+
 - **Computer Architecture**  
-  _Teaching Assistant_<br>
-  _Instructor: Dr. Bagher Babaali_ <br>
-  _School of Computer Science, University of Tehran_ <br>
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mohammad Shiri_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Fall 2020_
+
+- **Advanced Programming**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
   _Spring 2019_
 
-- **Digital System Design**  
-  _Teaching Assistant_<br>
-  _Instructor: Dr. Bagher Babaali_ <br>
-  _School of Computer Science, University of Tehran_ <br>
-  _Spring 2019_
-
+  
 ## work Experience
-- **Internship**  
+- **Dadeh imen Gostar Tadbir (_DiGT_)**  
   _Programmable Logic Controller Programming,Introduction to Industrial electricity_<br>
-  _Bargh Pars, Tehran, Iran_ <br>
+  _DiGT, Tehran, Iran_ <br>
   _In this program, I first became acquainted with electrical control panels, which was followed by practical experience working with Siemens PLCs._ <br>
-  _Summer 2018_
-
-- **Internship**  
-  _Cisco Networking and CompTIA Training_<br>
-  _Cando, Tehran, Iran_ <br>
-  _Progressed from foundational knowledge in Network+ to practical, in-depth exploration of Cisco's CCNA concepts, focusing on real-world network solutions._ <br>
-  _Fall 2017_
+  _Apr 2022 - Mar 2023_
 
 
 ## Skills Summary
 
-- **Programming Languages:** Python, Java, C++, SQL, Bash, Assembly
-- **Frameworks:** ANTLR, Apache Kafka, Apache Spark, Familiar with OpenGL
-- **Tools:** Docker, GIT, SQL Server, Kubernetes, MySQL, 
+- **Programming Languages:** Python, Java, PHP, MATLAB, C++, SQL, Bash, Assembly
+- **Tools:** Docker, GIT, SQL Server, Kubernetes, MySQL, P4, Arduino, GNS3, Cisco Packet Tracer
 - **Platforms:** Linux, Windows
 - **Typesetting:** LaTeX, Microsoft Office
 - **Other Skills:** Cisco CCNA, Comptia Network+
@@ -111,14 +147,13 @@ Submitted to ([Computers & Electrical Engineering Journal](https://www.sciencedi
 
 ## Research Interests
 
-- Formal Methods in Software Engineering
-- Protocol Verification
-- Model Checking
-- Process Algebra
-- Program Analysis
-- Software Testing
+- Computer Networks
+- Mobile Networks
 - Distributed Systems
-- Automata Theory
-- Programming Languages
+- Orchestration
+- NFV, SDN
+- Reinforcement Learning
+- Federated Learning
+- Optimization
 
-(Last update: Jan 20, 2024)
+(Last update: Jan 21, 2024)
