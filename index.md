@@ -37,19 +37,19 @@ Under Prepration<br>
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Nasser Yazdani_ <br>
   _School of ECE, University of Tehran_ <br>
-  _Fall 2024_
+  _Fall 2023_
 
 - **Advanced Algorithms**  
   _Teaching Assistant_<br>
   _Instructor: Dr. Heshaam Faili_ <br>
   _School of ECE, University of Tehran_ <br>
-  _Fall 2024, Fall 2022_
+  _Fall 2023, Fall 2022_
   
 - **Reinforcement Learning**  
   _Teaching Assistant_<br>
   _Instructor: Dr. Majid Nili_ <br>
   _School of ECE, University of Tehran_ <br>
-  _Fall 2024_
+  _Fall 2023_
   
 - **Performance Evaluation of Computer Systems**  
   _Chief Teaching Assistant_<br>
@@ -93,37 +93,37 @@ Under Prepration<br>
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Mohammad Tanhaei_ <br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-  _Fall 2021_
+  _Fall 2020_
 
 - **Computer Networks**  
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-  _Fall 2021_
+  _Fall 2020_
 
 - **Languages and Automata Theory**  
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-  _Fall 2021_
+  _Fall 2020_
 
 - **Basic Programming**  
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-  _Fall 2020, Spring 2019, Fall 2019_
+  _Fall 2019, Spring 2019, Fall 2018_
 
 - **Data Structures and Algorithms**  
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-  _Fall 2020_
+  _Fall 2019_
 
 - **Computer Architecture**  
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Mohammad Shiri_ <br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-  _Fall 2020_
+  _Fall 2019_
 
 - **Advanced Programming**  
   _Chief Teaching Assistant_<br>
