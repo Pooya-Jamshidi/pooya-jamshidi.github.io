@@ -16,7 +16,7 @@ I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advis
 
 - **National Organization for development of Exceptional Talents (Sampad)**  
   _Diploma in Mathematics and Physics_  
-  2013 - 2017  
+  2014 - 2017  
   Grade: (19.14 / 20)
 
 ## Publications
