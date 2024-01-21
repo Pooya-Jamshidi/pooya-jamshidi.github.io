@@ -132,7 +132,7 @@ Under Prepration<br>
   _Spring 2019_
 
   
-## work Experience
+## Work Experience
 - **Dadeh imen Gostar Tadbir (_DiGT_)**  
   _Programmable Logic Controller Programming,Introduction to Industrial electricity_<br>
   _DiGT, Tehran, Iran_ <br>
