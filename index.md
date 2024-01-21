@@ -24,6 +24,10 @@ _Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain
 M. Shakournia, __P. Jamshidi__, H. Faragardi, N. Yazdani<br>
 Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)<br>
 
+_Navigating the Turmoil: The Future of Computer Science and Technology in the Age of Data Explosion_<br>
+__P. Jamshidi__, M. Shakournia, N. Yazdani<br>
+Under Prepration<br>
+
 
 ## Teaching Experience
 
@@ -132,8 +136,8 @@ Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedir
 - **Dadeh imen Gostar Tadbir (_DiGT_)**  
   _Programmable Logic Controller Programming,Introduction to Industrial electricity_<br>
   _DiGT, Tehran, Iran_ <br>
-  _In this program, I first became acquainted with electrical control panels, which was followed by practical experience working with Siemens PLCs._ <br>
-  _Apr 2022 - Mar 2023_
+  _Participating in Programming Switches and Routers especially algorithms for Switches that work in Network Layer_ <br>
+  _Feb 2022 - Jan 2023_
 
 
 ## Skills Summary
@@ -155,5 +159,13 @@ Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedir
 - Reinforcement Learning
 - Federated Learning
 - Optimization
+
+
+## Extracurricular Activities
+
+- Hiking
+- Rock Climbing
+- Reading
+- Watching Movies
 
 (Last update: Jan 21, 2024)
