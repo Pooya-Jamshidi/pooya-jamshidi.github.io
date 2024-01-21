@@ -1,15 +1,18 @@
+I am a Master Software Engineering Student in the Router lab at UT ECE, advised by [Prof. Nasser Yazdani](/). I am interested in Computer and Mobile Networks, Distributed Systems, Reinforcement and Federated Leaning.<br>
 
 ## Education
 
 - **University of Tehran**  
   _Master of Science (MS.c.), Computer Engineering, Software Engineering_  
-  2021 - 2024  
+  2021 - 2024
   Grade: (19.24 / 20)
-
+  Ranked 2nd among the peers
+  
 - **Ilam University**  
   _Bachelor of Science (BS.c.), Computer Engineering_  
   2017 - 2021  
   Grade: (18.69 / 20)
+  _Ranked 1st among the peers_
 
 - **National Organization for development of Exceptional Talents (Sampad)**  
   _Diploma in Mathematics and Physics_  
