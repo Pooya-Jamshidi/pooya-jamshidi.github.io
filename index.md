@@ -5,19 +5,19 @@ I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advis
 - **University of Tehran**  
   _Master of Science (MS.c.), Computer Engineering, Software Engineering_  
   2021 - 2024  
-  Grade: (19.24 / 20)  
+  GPA: 4.0/4.0 (19.24 / 20)  
   _Ranked 2nd among the peers_
   
 - **Ilam University**  
   _Bachelor of Science (BS.c.), Computer Engineering_  
   2017 - 2021  
-  Grade: (18.69 / 20)  
+  GPA: 3.83/4.0 (18.69 / 20)  
   _Ranked 1st among the peers_
 
 - **National Organization for development of Exceptional Talents (Sampad)**  
   _Diploma in Mathematics and Physics_  
   2014 - 2017  
-  Grade: (19.14 / 20)
+  GPA: (19.14 / 20)
 
 ## Publications
 _Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain_<br>
