@@ -142,7 +142,7 @@ Under Preparation<br>
 ## Skills Summary
 
 - **Programming Languages:** Python, Java, PHP, MATLAB, C++, SQL, Bash, Assembly
-- **Tools:** Docker, GIT, SQL Server, Kubernetes, MySQL, P4, Arduino, GNS3, Cisco Packet Tracer
+- **Tools:** Docker, GIT, SQL Server, Kubernetes, MySQL, P4, Arduino, GNS3, Cisco Packet Tracer, PyTorch, Gym
 - **Platforms:** Linux, Windows
 - **Typesetting:** LaTeX, Microsoft Office
 - **Other Skills:** Cisco CCNA, Comptia Network+
