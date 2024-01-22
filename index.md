@@ -26,7 +26,7 @@ Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedir
 
 _Navigating the Turmoil: The Future of Computer Science and Technology in the Age of Data Explosion_<br>
 __P. Jamshidi__, M. Shakournia, N. Yazdani<br>
-Under Prepration<br>
+Under Preparation<br>
 
 
 ## Teaching Experience
@@ -167,4 +167,4 @@ Under Prepration<br>
 - Reading
 - Watching Movies
 
-(Last update: Jan 21, 2024)
+(Last update: Jan 22, 2024)
