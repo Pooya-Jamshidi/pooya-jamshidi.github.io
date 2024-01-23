@@ -22,7 +22,7 @@ I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advis
 ## Publications
 _Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain_<br>
 M. Shakournia, __P. Jamshidi__, H. Faragardi, N. Yazdani<br>
-Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) [[Download] - Preprint(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4687771)]<br>
+Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) [[Download - Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4687771)]<br>
 
 _Navigating the Turmoil: The Future of Computer Science and Technology in the Age of Data Explosion_<br>
 __P. Jamshidi__, M. Shakournia, N. Yazdani<br>
