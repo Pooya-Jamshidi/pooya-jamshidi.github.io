@@ -32,7 +32,12 @@ Under Preparation<br>
 ## Teaching Experience
 
 ### MS.c.
-
+- **Data Structure and Algorithms**  
+  _Chief Teaching Assistant_<br>
+  _Instructor: Dr. Mohammad-Reza Shakournia_ <br>
+  _School of Computer Science, University of Tehran_ <br>
+  _Spring 2024_
+  
 - **Advanced Computer Networking**  
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Nasser Yazdani_ <br>
@@ -55,7 +60,7 @@ Under Preparation<br>
   _Chief Teaching Assistant_<br>
   _Instructor: Dr. Ahmad Khonsari_ <br>
   _School of ECE, University of Tehran_ <br>
-  _Spring 2023_
+  _Spring 2023, Spring 2024_
 
 - **Advanced Distributed Systems**  
   _Chief Teaching Assistant_<br>
