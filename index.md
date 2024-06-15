@@ -171,7 +171,7 @@ Under Preparation<br>
 - Optimization
 - Datacenter Networking
 
-## HOnor & Awards
+## Honor & Awards
 
 - Ranked 2nd Among 35 Students at the University of Tehran
 - Ranked 1st Among 42 Students at the Ilam University
