@@ -160,21 +160,30 @@ Under Preparation<br>
 
 ## Research Interests
 
-- Computer Networks
+- **Computer Networks**
 - Mobile Networks
-- Distributed Systems
-- Edge Computing
+- **Distributed Systems**
+- **Edge Computing**
 - Orchestration
 - NFV, SDN
-- Reinforcement Learning
-- Federated Learning
+- **Reinforcement Learning**
+- **Federated Learning**
 - Optimization
 - Datacenter Networking
 
+## HOnor & Awards
+
+- Ranked 2nd Among 35 Students at the University of Tehran
+- Ranked 1st Among 42 Students at the Ilam University
+- Partial Scholarship Award During Graduate Studies at University of Tehran.
+- Rank top 0.1% of National Matriculation Exam (Konkoor)
+- Granted admission to the M.Sc program of the CE Department without entrance exam through the Exceptional Talents Admissions Office, Sharif University
 
 ## Extracurricular Activities
 
 - Hiking
+- Volleyball
+- Chess
 - Rock Climbing
 - Reading
 - Watching Movies
