@@ -163,11 +163,13 @@ Under Preparation<br>
 - Computer Networks
 - Mobile Networks
 - Distributed Systems
+- Edge Computing
 - Orchestration
 - NFV, SDN
 - Reinforcement Learning
 - Federated Learning
 - Optimization
+- Datacenter Networking
 
 
 ## Extracurricular Activities
@@ -177,4 +179,4 @@ Under Preparation<br>
 - Reading
 - Watching Movies
 
-(Last update: Feb 05, 2024)
+(Last update: June 15, 2024)
