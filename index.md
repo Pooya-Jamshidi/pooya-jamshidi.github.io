@@ -14,10 +14,6 @@ I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advis
   GPA: 3.83/4.0 (18.69 / 20)  
   _Ranked 1st among the peers_
 
-- **National Organization for development of Exceptional Talents (Sampad)**  
-  _Diploma in Mathematics and Physics_  
-  2014 - 2017  
-  GPA: (19.14 / 20)
 
 ## Publications
 _Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain_<br>
