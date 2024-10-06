@@ -48,114 +48,114 @@ Under Preparation<br>
 
 ### Teaching Assistant
   ### MS.c.
-    - **Data Structure and Algorithms**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mohammad-Reza Shakournia_ <br>
-      _School of Computer Science, University of Tehran_ <br>
-      _Spring 2024_
-      
-    - **Advanced Computer Networking**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Nasser Yazdani_ <br>
-      _School of ECE, University of Tehran_ <br>
-      _Fall 2023_
+  - **Data Structure and Algorithms**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mohammad-Reza Shakournia_ <br>
+    _School of Computer Science, University of Tehran_ <br>
+    _Spring 2024_
     
-    - **Advanced Algorithms**  
-      _Teaching Assistant_<br>
-      _Instructor: Dr. Heshaam Faili_ <br>
-      _School of ECE, University of Tehran_ <br>
-      _Fall 2023, Fall 2022_
-      
-    - **Reinforcement Learning**  
-      _Teaching Assistant_<br>
-      _Instructor: Dr. Majid Nili_ <br>
-      _School of ECE, University of Tehran_ <br>
-      _Fall 2023_
-      
-    - **Performance Evaluation of Computer Systems**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Ahmad Khonsari_ <br>
-      _School of ECE, University of Tehran_ <br>
-      _Spring 2023, Spring 2024_
+  - **Advanced Computer Networking**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Nasser Yazdani_ <br>
+    _School of ECE, University of Tehran_ <br>
+    _Fall 2023_
+  
+  - **Advanced Algorithms**  
+    _Teaching Assistant_<br>
+    _Instructor: Dr. Heshaam Faili_ <br>
+    _School of ECE, University of Tehran_ <br>
+    _Fall 2023, Fall 2022_
     
-    - **Advanced Distributed Systems**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Hamid-Reza Faragardi_ <br>
-      _School of ECE, University of Tehran_ <br>
-      _Spring 2023_
+  - **Reinforcement Learning**  
+    _Teaching Assistant_<br>
+    _Instructor: Dr. Majid Nili_ <br>
+    _School of ECE, University of Tehran_ <br>
+    _Fall 2023_
     
-    - **Advanced Computer Mathematics**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Nasser Yazdani_ <br>
-      _School of ECE, University of Tehran_ <br>
-      _Fall 2022_
+  - **Performance Evaluation of Computer Systems**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Ahmad Khonsari_ <br>
+    _School of ECE, University of Tehran_ <br>
+    _Spring 2023, Spring 2024_
+  
+  - **Advanced Distributed Systems**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Hamid-Reza Faragardi_ <br>
+    _School of ECE, University of Tehran_ <br>
+    _Spring 2023_
+  
+  - **Advanced Computer Mathematics**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Nasser Yazdani_ <br>
+    _School of ECE, University of Tehran_ <br>
+    _Fall 2022_
   
   ### BS.c.
   
-    - **Algorithm Design**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Spring 2021, Spring 2020_
-    
-    - **Digital Logic Design**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Spring 2021_
-    
-    - **Introduction to Computer Vision**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mojtaba Karami_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Spring 2021_
-    
-    - **Database Design**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mohammad Tanhaei_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Fall 2020_
-    
-    - **Computer Networks**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Fall 2020_
-    
-    - **Languages and Automata Theory**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Fall 2020_
-    
-    - **Basic Programming**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Fall 2019_<br>
-    
-      _Teaching Assistant_<br>
-      _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Spring 2019, Fall 2018_
-    
-    - **Data Structures and Algorithms**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Fall 2019_
-    
-    - **Computer Architecture**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mohammad Shiri_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Fall 2019_
-    
-    - **Advanced Programming**  
-      _Chief Teaching Assistant_<br>
-      _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
-      _School of Engineering, Computer Engineering Group, Ilam University_ <br>
-      _Spring 2019_
+  - **Algorithm Design**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Spring 2021, Spring 2020_
+  
+  - **Digital Logic Design**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Spring 2021_
+  
+  - **Introduction to Computer Vision**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mojtaba Karami_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Spring 2021_
+  
+  - **Database Design**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mohammad Tanhaei_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Fall 2020_
+  
+  - **Computer Networks**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Fall 2020_
+  
+  - **Languages and Automata Theory**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Fall 2020_
+  
+  - **Basic Programming**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Fall 2019_<br>
+  
+    _Teaching Assistant_<br>
+    _Instructor: Dr. Mohammad-Reza Valizadeh_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Spring 2019, Fall 2018_
+  
+  - **Data Structures and Algorithms**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Fall 2019_
+  
+  - **Computer Architecture**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mohammad Shiri_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Fall 2019_
+  
+  - **Advanced Programming**  
+    _Chief Teaching Assistant_<br>
+    _Instructor: Dr. Mozafar Bag-Mohammadi_ <br>
+    _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+    _Spring 2019_
 
   
 ## Work Experience
