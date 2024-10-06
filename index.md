@@ -47,7 +47,7 @@ Under Preparation<br>
   _Fall 2024_
 
 ### Teaching Assistant
-  ### MS.c.
+  - ### MS.c.
   - **Data Structure and Algorithms**  
     _Chief Teaching Assistant_<br>
     _Instructor: Dr. Mohammad-Reza Shakournia_ <br>
@@ -90,7 +90,7 @@ Under Preparation<br>
     _School of ECE, University of Tehran_ <br>
     _Fall 2022_
   
-  ### BS.c.
+  - ### BS.c.
   
   - **Algorithm Design**  
     _Chief Teaching Assistant_<br>
