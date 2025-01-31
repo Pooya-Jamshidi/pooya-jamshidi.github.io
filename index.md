@@ -36,12 +36,32 @@ Under Preparation<br>
 ## Teaching Experience
 
 ### Part-time Lecturer
+- **Introduction to Big Data**  
+  _Instructor_<br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Spring 2025_
+  
+- **Basic Programming**  
+  _Instructor_<br>
+  _School of Engineering, Civil Engineering Group, Ilam University_ <br>
+  _Spring 2025_
+
+- **Computer Networks Lab.**  
+  _Instructor_<br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Spring 2025_
+
+
 - **Data Structure and Algorithms**  
-  _Instructor co-taught by Dr. Mozafar Bag-Mohammadi_<br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
   _Fall 2024_
   
 - **Introduction to Game Theory**  
+  _Instructor_<br>
+  _School of Engineering, Computer Engineering Group, Ilam University_ <br>
+  _Fall 2024_
+
+- **Digital Design Lab.**  
   _Instructor_<br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
   _Fall 2024_
@@ -163,6 +183,10 @@ Under Preparation<br>
   _DiGT, Tehran, Iran_ <br>
   _Participating in Programming Switches and Routers especially algorithms for Switches that work in Network Layer_ <br>
   _Feb 2022 - Jan 2023_
+- **Ilam University**  
+  _Ilam University, Ilam, Iran_ <br>
+  _Part-time Lecturer and Researcher_ <br>
+  _Sep 2024 - Jun 2025_
 
 
 ## Skills Summary
@@ -198,10 +222,11 @@ Under Preparation<br>
 ## Extracurricular Activities
 
 - Hiking
+- Snooker
 - Volleyball
 - Chess
 - Rock Climbing
 - Reading
 - Watching Movies
 
-(Last update: Oct 01, 2024)
+(Last update: Jan 31, 2025)
