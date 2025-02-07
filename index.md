@@ -17,7 +17,7 @@ I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advis
 
 ## Publications
 _Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain_<br>
-M. Shakournia, __P. Jamshidi__, H. Faragardi, N. Yazdani<br>
+MR. Shakournia, __P. Jamshidi__, H. Faragardi, N. Yazdani<br>
 Submitted to [Computers & Electrical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) [[Download - Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4687771)]<br>
 
 _FL-ProtectX: Combating Label flipping in complex multi-agent environments_<br>
@@ -25,8 +25,8 @@ MA. Zamani, F. Amiri, __P. Jamshidi__, SM. Hosseini, N. Yazdani<br>
 11th International Symposium on Telecommunication (IST 2024)<br>
 
 _Multi Domain Network Service Orchestration Framework: A Hierarchical Multi Agent Federated Deep Reinforcement Learning Approach_<br>
-__P. Jamshidi__, M. Shakournia, N. Yazdani<br>
-Ready to Submit<br>
+__P. Jamshidi__, SM. Hosseini, M. Mahdudi, MA. Zamani, MR. Shakournia, N. Yazdani<br>
+Submitted to [Journal of Network and Computer Applications]([https://www.sciencedirect.com/journal/computers-and-electrical-engineering](https://www.sciencedirect.com/journal/journal-of-network-and-computer-applications)) [[Download - Preprint]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4687771)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering](https://www.sciencedirect.com/journal/journal-of-network-and-computer-applications)]<br>
 
 _Navigating the Turmoil: The Future of Computer Science and Technology in the Age of Data Explosion_<br>
 __P. Jamshidi__, M. Shakournia, N. Yazdani<br>
