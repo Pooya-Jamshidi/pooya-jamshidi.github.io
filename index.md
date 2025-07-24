@@ -1,4 +1,4 @@
-I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advised by [Prof. Nasser Yazdani](https://ece.ut.ac.ir/en/~yazdani). I am interested in Computer and Mobile Networks, Distributed Systems, Reinforcement and Federated Learning.<br>
+I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advised by [Prof. Nasser Yazdani](https://ece.ut.ac.ir/en/~yazdani). I am interested in Computer and Mobile Networks, Distributed Systems, AI in Systems, Large Language Models, Reinforcement and Federated Learning.<br>
 
 ## Education
 
@@ -183,6 +183,7 @@ Under Preparation<br>
 
   
 ## Work Experience
+
 - **Dadeh imen Gostar Tadbir (_DiGT_)**  
   _DiGT, Tehran, Iran_ <br>
   _Participating in Programming Switches and Routers especially algorithms for Switches that work in Network Layer_ <br>
@@ -191,12 +192,16 @@ Under Preparation<br>
   _Ilam University, Ilam, Iran_ <br>
   _Part-time Lecturer and Researcher_ <br>
   _Sep 2024 - Jun 2025_
+  - **Ilam University**  
+  _Ilam University, Ilam, Iran_ <br>
+  _LLM Engineer_ <br>
+  Apr 2025 - Present_
 
 
 ## Skills Summary
 
 - **Programming Languages:** Python, Java, PHP, MATLAB, C++, SQL, Bash, Assembly
-- **Tools:** Docker, GIT, SQL Server, Kubernetes, MySQL, P4, Arduino, GNS3, Cisco Packet Tracer, PyTorch, Gym
+- **Tools:** Docker, GIT, SQL Server, Kubernetes, MySQL, P4, Arduino, GNS3, Cisco Packet Tracer, PyTorch, Gym, Langgraph, Langchain, Istio, Linkerd, Prometheus
 - **Platforms:** Linux, Windows
 - **Typesetting:** LaTeX, Microsoft Office
 - **Other Skills:** Cisco CCNA, Comptia Network+
@@ -207,11 +212,12 @@ Under Preparation<br>
 - **Computer Networks**
 - Mobile Networks
 - **Distributed Systems**
+- **Large Language Models**
+- **Reinforcement Learning**
+- **Federated Learning**
 - **Edge Computing**
 - Orchestration
 - NFV, SDN
-- **Reinforcement Learning**
-- **Federated Learning**
 - Optimization
 - Datacenter Networking
 
@@ -233,4 +239,4 @@ Under Preparation<br>
 - Reading
 - Watching Movies
 
-(Last update: Feb 22, 2025)
+(Last update: Jul 24, 2025)
