@@ -193,9 +193,9 @@ Under Preparation<br>
   _Part-time Lecturer and Researcher_ <br>
   _Sep 2024 - Jun 2025_
 - **Ilam University**  
-_Ilam University, Ilam, Iran_ <br>
-_LLM Engineer_ <br>
-_Apr 2025 - Present_
+  _Ilam University, Ilam, Iran_ <br>
+  _LLM Engineer_ <br>
+  _Apr 2025 - Present_
 
 
 ## Skills Summary
