@@ -1,6 +1,10 @@
 I am a Software Engineering (_Ph.D_) Student at UT ECE, advised by [Prof. Nasser Yazdani](https://ece.ut.ac.ir/en/~yazdani) and [Prof. Heshaam Faili](https://ece.ut.ac.ir/en/~hfaili). My research focuses on the intersection of Large Language Models (LLMs) and AI in Computer Networks, and extends to distributed systems, reinforcement learning, and federated learning.<br>
 
 ## Education
+- **University of Tehran**  
+  _Doctor of Philosophy (Ph.D), Computer Engineering, Software Engineering_  
+  2025 - Present  
+  GPA: -
 
 - **University of Tehran**  
   _Master of Science (MS.c.), Computer Engineering, Software Engineering_  
