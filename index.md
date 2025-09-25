@@ -1,4 +1,4 @@
-I am a Software Engineering (_MS.c._) Student in the Router lab at UT ECE, advised by [Prof. Nasser Yazdani](https://ece.ut.ac.ir/en/~yazdani). I am interested in Computer and Mobile Networks, Distributed Systems, AI in Systems, Large Language Models, Reinforcement and Federated Learning.<br>
+I am a Software Engineering (_Ph.D_) Student at UT ECE, advised by [Prof. Nasser Yazdani](https://ece.ut.ac.ir/en/~yazdani) and [Prof. Heshaam Faili](https://ece.ut.ac.ir/en/~hfaili). My research focuses on the intersection of Large Language Models (LLMs) and AI in Computer Networks, and extends to distributed systems, reinforcement learning, and federated learning.<br>
 
 ## Education
 
@@ -69,6 +69,11 @@ Under Preparation<br>
   _Instructor_<br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
   _Fall 2024_
+
+## Academic Service
+  - **Reviewer, Visual Communications and Image Processing (VCIP) Conference, 2025**
+  - **Reviewer, Pervasive and Mobile Computing (PMC) Journal, 2025**
+
 
 ### Teaching Assistant
   - ### MS.c.
