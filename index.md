@@ -74,11 +74,6 @@ Under Preparation<br>
   _School of Engineering, Computer Engineering Group, Ilam University_ <br>
   _Fall 2024_
 
-## Academic Service
-  - **Reviewer, Visual Communications and Image Processing (VCIP) Conference, 2025**
-  - **Reviewer, Pervasive and Mobile Computing (PMC) Journal, 2025**
-
-
 ### Teaching Assistant
   - ### MS.c.
     - **Data Structure and Algorithms**  
@@ -190,6 +185,10 @@ Under Preparation<br>
       _School of Engineering, Computer Engineering Group, Ilam University_ <br>
       _Spring 2019_
 
+    
+## Academic Service
+  - **Reviewer, Visual Communications and Image Processing (VCIP) Conference, 2025**
+  - **Reviewer, Pervasive and Mobile Computing (PMC) Journal, 2025**
   
 ## Work Experience
 
