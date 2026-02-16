@@ -20,9 +20,18 @@ I am a Software Engineering (_Ph.D_) Student at UT ECE, advised by [Prof. Nasser
 
 
 ## Publications
+
+_Layer-Wise Averaged Initialization for Knowledge Distillation (LAI-KD) under Limited Data_<br>
+M.Valizadeh, M. Hoseinpur, M. Bag-Mohammadi, __P. Jamshidi__ <br>
+Future Research on AI and IoT (Journal) [[Download]()]<br>
+
+_YTLive: A Dataset of Real-World YouTube Live Streaming Sessions_<br>
+M. Mozhganfar, __P. Jamshidi__, SA. Aghamiri, M. Ghasemi, M. Dolati, F. Tashtarian, A. Khonsari, C. Timmerer <br>
+IEEE/IFIP Network Operations and Management Symposium 2026 (NOMS 2026) [[Download](https://arxiv.org/pdf/2510.24769)]<br>
+
 _Two-Fold Byzantine Fault Tolerance Algorithm: Byzantine Consensus in Blockchain_<br>
 MR. Shakournia, __P. Jamshidi__, H. Faragardi, N. Yazdani<br>
-Submitted to [Distributed Computing Journal](https://link.springer.com/journal/446) [[Download - Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4687771)]<br>
+Submitted to [Distributed Computing Journal](https://link.springer.com/journal/446) [[Download](https://arxiv.org/pdf/2504.16267)]<br>
 
 _FL-ProtectX: Combating Label flipping in complex multi-agent environments_<br>
 MA. Zamani, F. Amiri, __P. Jamshidi__, SM. Hosseini, N. Yazdani<br>
@@ -32,9 +41,9 @@ _Multi Domain Network Service Orchestration Framework: A Hierarchical Multi Agen
 __P. Jamshidi__, SM. Hosseini, M. Mahdudi, MA. Zamani, MR. Shakournia, N. Yazdani<br>
 Submitted to [Journal of Network and Computer Applications](https://www.sciencedirect.com/journal/journal-of-network-and-computer-applications) [[Download - Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143341)]<br>
 
-_Navigating the Turmoil: The Future of Computer Science and Technology in the Age of Data Explosion_<br>
-__P. Jamshidi__, M. Shakournia, N. Yazdani<br>
-Under Preparation<br>
+_Task failure prediction in cloud computing systems using federated learning_<br>
+__M Mahdudi, __P. Jamshidi__, S Rahmani, N Yazdani<br>
+International Conference onArtificial Intelligence and Related Technologies (2025)<br>
 
 
 ## Teaching Experience
@@ -75,6 +84,25 @@ Under Preparation<br>
   _Fall 2024_
 
 ### Teaching Assistant
+  - ### Ph.D.
+    - **Advanced Algorithms**  
+      _Chief Teaching Assistant_<br>
+      _Instructor: Dr. Heshaam Faili_ <br>
+      _School of ECE, University of Tehran_ <br>
+      _Spring 2026_
+      
+    - **Distibuted Systems**  
+      _Chief Teaching Assistant_<br>
+      _Instructor: Dr. Mohammad-Reza Shakournia_ <br>
+      _School of ECE, University of Tehran_ <br>
+      _Spring 2026_
+      
+    - **Advanced Computer Networking**  
+      _Chief Teaching Assistant_<br>
+      _Instructor: Dr. Nasser Yazdani_ <br>
+      _School of ECE, University of Tehran_ <br>
+      _Fall 2025_
+      
   - ### MS.c.
     - **Data Structure and Algorithms**  
       _Chief Teaching Assistant_<br>
@@ -204,7 +232,10 @@ Under Preparation<br>
   _Ilam University, Ilam, Iran_ <br>
   _LLM Engineer_ <br>
   _Apr 2025 - Present_
-
+- **RamanAI**  
+  _ramanai co. _ <br>
+  _Team Lead of LLM Engineering_ <br>
+  _Apr 2025 - Present_
 
 ## Skills Summary
 
@@ -218,15 +249,12 @@ Under Preparation<br>
 ## Research Interests
 
 - **Computer Networks**
-- Mobile Networks
-- **Distributed Systems**
 - **Large Language Models**
-- **Reinforcement Learning**
-- **Federated Learning**
-- **Edge Computing**
-- Orchestration
-- NFV, SDN
-- Optimization
+- Natural Language Processing
+- Distributed Systems
+- Reinforcement Learning
+- Federated Learning
+- Edge Computing
 - Datacenter Networking
 
 ## Honor & Awards
@@ -247,4 +275,4 @@ Under Preparation<br>
 - Reading
 - Watching Movies
 
-(Last update: Sep 27, 2025)
+(Last update: Feb 16, 2026)
