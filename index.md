@@ -42,7 +42,7 @@ __P. Jamshidi__, SM. Hosseini, M. Mahdudi, MA. Zamani, MR. Shakournia, N. Yazdan
 Submitted to [Journal of Network and Computer Applications](https://www.sciencedirect.com/journal/journal-of-network-and-computer-applications) [[Download - Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143341)]<br>
 
 _Task failure prediction in cloud computing systems using federated learning_<br>
-__M Mahdudi, __P. Jamshidi__, S Rahmani, N Yazdani<br>
+_M Mahdudi, __P. Jamshidi__, S Rahmani, N Yazdani<br>
 International Conference onArtificial Intelligence and Related Technologies (2025)<br>
 
 
