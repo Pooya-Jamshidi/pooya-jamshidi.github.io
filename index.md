@@ -4,7 +4,7 @@ I am a Software Engineering (_Ph.D_) Student at UT ECE, advised by [Prof. Nasser
 - **University of Tehran**  
   _Doctor of Philosophy (Ph.D), Computer Engineering, Software Engineering_  
   2025 - Present  
-  GPA: -
+  GPA: 4.0/4.0 (19.32 / 20) 
 
 - **University of Tehran**  
   _Master of Science (MS.c.), Computer Engineering, Software Engineering_  
@@ -288,4 +288,4 @@ International Conference onArtificial Intelligence and Related Technologies (202
 - Reading
 - Watching Movies
 
-(Last update: Feb 16, 2026)
+(Last update: May 25, 2026)
