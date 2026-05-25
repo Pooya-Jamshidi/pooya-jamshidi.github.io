@@ -221,32 +221,27 @@ International Conference onArtificial Intelligence and Related Technologies (202
 ## Work Experience
 
 - **RamanAI**  
-  _ramanai co. _ <br>
+  _ramanai co._ <br>
   _CTO_ <br>
   _Developing Smart Assistant(2)_ <br>
   _May 2026 - Present_
-  
 - **RamanAI**  
-  _ramanai co. _ <br>
+  _ramanai co._ <br>
   _Team Lead of AI Engineering_ <br>
   _Developing Smart Assistant(1)_ <br>
   _Apr 2025 - Present_
-
-  - **Ilam University**  
+- **Ilam University**  
   _Ilam University, Ilam, Iran_ <br>
   _AI Engineer_ <br>
   _Apr 2025 - Present_
-
 - **Ilam University**  
   _Ilam University, Ilam, Iran_ <br>
   _Part-time Lecturer and Researcher_ <br>
   _Sep 2024 - Jun 2025_
-
-  - **Iran Telecommunication Research Center (ITRC)**  
+- **Iran Telecommunication Research Center (ITRC)**  
   _ITRC, Tehran, Iran_ <br>
   _Research & Development team_ <br>
   _Sep 2023 - Sep 2024_
-  
 - **Dadeh imen Gostar Tadbir (_DiGT_)**  
   _DiGT, Tehran, Iran_ <br>
   _Participating in Programming Switches and Routers especially algorithms for Switches that work in Network Layer_ <br>
