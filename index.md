@@ -219,7 +219,12 @@ International Conference onArtificial Intelligence and Related Technologies (202
   - **Reviewer, Pervasive and Mobile Computing (PMC) Journal, 2025**
   
 ## Work Experience
-
+- **Adan AI**  
+  _adanai co._ <br>
+  _AI Engineer_ <br>
+  _Developing Smart Assistant_ <br>
+  _Jul 2026 - Present_
+  
 - **RamanAI**  
   _ramanai co._ <br>
   _CTO_ <br>
