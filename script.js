@@ -1,4 +1,44 @@
 (() => {
+  const config = window.siteConfig || {};
+
+  function safeLink(value, localPdf = false) {
+    if (typeof value !== 'string' || !value.trim()) return null;
+    try {
+      const url = new URL(value, window.location.href);
+      if (url.protocol === 'https:' || (localPdf && url.origin === window.location.origin && ['http:', 'file:'].includes(url.protocol))) return url.href;
+    } catch (_) {}
+    return null;
+  }
+
+  const scholarUrl = safeLink(config.googleScholar);
+  if (scholarUrl) {
+    document.querySelectorAll('[data-scholar-link]').forEach(link => {
+      link.href = scholarUrl;
+      link.hidden = false;
+    });
+  }
+  document.querySelectorAll('[data-employer]').forEach(element => {
+    const url = safeLink(config.employers?.[element.dataset.employer]);
+    if (!url) return;
+    const link = document.createElement('a');
+    link.href = url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.textContent = element.textContent;
+    element.replaceChildren(link);
+  });
+  document.querySelectorAll('[data-paper]').forEach(publication => {
+    const url = safeLink(config.paperPdfs?.[publication.dataset.paper], true);
+    if (!url) return;
+    const link = document.createElement('a');
+    link.href = url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.textContent = 'PDF ↗';
+    link.setAttribute('aria-label', `Read PDF: ${publication.querySelector('h3').textContent}`);
+    publication.querySelector('.pub-bottom').append(link);
+  });
+
   const tabs = [...document.querySelectorAll('.tab')];
   const panels = [...document.querySelectorAll('.panel')];
   const valid = new Set(tabs.map(tab => tab.hash.slice(1)));
