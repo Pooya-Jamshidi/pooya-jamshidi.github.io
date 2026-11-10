@@ -17,3 +17,9 @@
 .role-status{display:inline-block;margin-bottom:9px;padding:3px 9px;border-radius:20px;background:var(--accent-bg);color:var(--accent);font-size:10px;font-weight:700}
 .scholar-action{margin:0 0 18px}
 .scholar-action:has([hidden]){display:none}
+
+.taught-course .details-content h3{font-size:13px;color:var(--text-strong);margin:16px 0 7px}
+.taught-course .details-content p,.taught-course .details-content ul{font-size:12.5px;color:var(--muted);line-height:1.8;margin:0 0 12px}
+.taught-course .details-content ul{padding-left:20px}
+.course-slides li{margin-bottom:8px}
+.course-slides a{color:var(--accent);text-underline-offset:3px}

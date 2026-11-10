@@ -39,6 +39,43 @@
     publication.querySelector('.pub-bottom').append(link);
   });
 
+  document.querySelectorAll('[data-course]').forEach(course => {
+    const materials = config.courses?.[course.dataset.course];
+    if (!materials) return;
+    const overview = course.querySelector('.course-overview');
+    if (typeof materials.overview === 'string' && materials.overview.trim()) {
+      overview.textContent = materials.overview;
+    }
+    const topics = course.querySelector('.course-topics');
+    if (Array.isArray(materials.topics)) {
+      materials.topics.forEach(topic => {
+        if (typeof topic !== 'string' || !topic.trim()) return;
+        const item = document.createElement('li');
+        item.textContent = topic;
+        topics.append(item);
+      });
+    }
+    topics.hidden = topics.children.length === 0;
+    const slides = course.querySelector('.course-slides');
+    if (Array.isArray(materials.slides)) {
+      materials.slides.forEach(slide => {
+        if (!slide || typeof slide.title !== 'string' || !slide.title.trim()) return;
+        const url = safeLink(slide.url, true);
+        if (!url) return;
+        const item = document.createElement('li');
+        const link = document.createElement('a');
+        link.href = url;
+        link.textContent = slide.title;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        item.append(link);
+        slides.append(item);
+      });
+    }
+    slides.hidden = slides.children.length === 0;
+    course.querySelector('.course-slides-empty').hidden = slides.children.length > 0;
+  });
+
   const tabs = [...document.querySelectorAll('.tab')];
   const panels = [...document.querySelectorAll('.panel')];
   const valid = new Set(tabs.map(tab => tab.hash.slice(1)));
